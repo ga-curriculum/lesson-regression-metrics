@@ -10,7 +10,7 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Regression Metrics Notes | [Link](./3.04-regression-metrics.ipynb)|
-| Lab | Regression Metrics Lab | [Link](https://git.generalassemb.ly/DSI-EAST-2/3.04-feature-engineering-lab) |
+| Lab | Regression Metrics Lab | [Link](https://git.generalassemb.ly/DSI-EAST-2/3.04-regression-metrics-lab) |
 
 > **Dataset description:** Forest Fire Dataset
 
