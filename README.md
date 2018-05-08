@@ -1,6 +1,6 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 3.04 - Regression Metrics
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 3.03 - Regression Metrics
 
-> Week 3, Lesson 4
+> Week 3, Lesson 3
 
 ---
 
