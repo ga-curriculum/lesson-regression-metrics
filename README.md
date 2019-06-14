@@ -1,17 +1,11 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 3.03 - Regression Metrics
-
-> Week 3, Lesson 3
-
----
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Regression Metrics
 
 ## Materials We Provide
 
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Regression Metrics Notes | [Link](./regression-metrics.ipynb)|
-
-> **Dataset description:** Forest Fire Dataset
+| Lesson | Regression Metrics Notebook | [Link](./starter-code.ipynb)|
 
 ---
 
@@ -27,9 +21,7 @@
 
 *Before this lesson(s), students should already be able to:*
 
-1. Define feature engineering and identify use-cases.
-2. Define, interpret and calculate loss/error metrics MSE and $R^2$
-3. Construct and interpret regression models in `sklearn` and `statsmodels`.
+1. Construct and interpret regression models in `sklearn`
 
 ---
 
@@ -40,8 +32,6 @@
 I. **Regression Metrics** (75 minutes total)
 - How do we evaluate models?
 - Regression Metrics
-
-II. **Feature Selection** (15 minutes total)
 
 ---
 
