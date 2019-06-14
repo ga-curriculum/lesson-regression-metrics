@@ -29,9 +29,16 @@
 
 > **Total Time: 90 mins**
 
-I. **Regression Metrics** (75 minutes total)
-- How do we evaluate models?
+I. **Regression Metrics** (90 minutes total)
+- Residuals
+  - How to create a residuals plot
+  - What a "good" residuals plot looks like
 - Regression Metrics
+  - Mean Absolute Error (MAE)
+  - Residual Sum of Squares
+  - Mean Squared Error
+  - Root Mean Squared Error
+  - R2
 
 ---
 
