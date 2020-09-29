@@ -10,8 +10,9 @@
 ## Learning Objectives
 
 *After this lesson, students will be able to:*
-1. **Define** and **implement** six regression metrics.
-2. **Describe** feature selection.
+1. **Understand** what a metric is and give examples.
+2. **Define** and **implement** six regression metrics.
+3. **Know** how a loss function is used for machine learning.
 
 ## Student Requirements
 
@@ -24,9 +25,6 @@
 > **Total Time: 90 mins**
 
 I. **Regression Metrics** (90 minutes total)
-- Residuals
-  - How to create a residuals plot
-  - What a "good" residuals plot looks like
 - Regression Metrics
   - Mean Absolute Error (MAE)
   - Residual Sum of Squares
